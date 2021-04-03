@@ -1,0 +1,14 @@
+1、TCP有连接、安全、效率低    UDP无连接、不安全、效率高
+2、BCE
+3、ABC
+4、
+	客户端
+	socket.getInputStream()、socket.getOutputStream()
+	is.read(byte[] data)    os.write(byte[] data)
+	服务端
+	ServerSocket
+	accept()、Socket
+	socket
+6、	DatagramSocket
+	send、receive
+	DatagramPacket
